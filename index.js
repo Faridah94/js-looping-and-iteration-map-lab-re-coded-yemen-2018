@@ -22,8 +22,10 @@ var lname = x.split(" ")[1];
 function attributesToPhrase(drivers){
   let arrayOBJ=[];
   
-  for
-  
-  
+  for (let x of drivers ){
+    
+    return arrayOBJ.push();
+  }
+
 }
 
