@@ -19,5 +19,11 @@ var lname = x.split(" ")[1];
   return  arrObj;
 }
 
-attributesToPhrase(drivers){}
+function attributesToPhrase(drivers){
+  let arrayOBJ=[];
+  
+  for
+  
+  
+}
 
