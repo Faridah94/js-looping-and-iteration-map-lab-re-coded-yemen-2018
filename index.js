@@ -24,7 +24,7 @@ function attributesToPhrase(drivers){
   
   for (let x of drivers ){
     
-   arrayOBJ.push(`+${element.name}+"is from" + ${element.hometown}`);
+   arrayOBJ.push(`+${x.name}+"is from"+ ${x.hometown}`);
   }
   
 return arrayOBJ;
